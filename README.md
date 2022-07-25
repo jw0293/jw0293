@@ -1,5 +1,7 @@
 ### Kim Jung Won 👋
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawnddnjs12)](https://solved.ac/rlawnddnjs12/)
+
 <!--
 **jw0293/jw0293** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
