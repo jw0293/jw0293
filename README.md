@@ -1,4 +1,4 @@
-### Hi there 👋
+### Kim Jung Won 👋
 
 <!--
 **jw0293/jw0293** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
