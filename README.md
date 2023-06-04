@@ -1,7 +1,8 @@
 # Kim Jung Won's Github 👋 <br/> <br/> 
 <div><h2> :tiger: Profile</h2></div>
 :seedling: Dongguk University Information & Communication Egineering(2018~) <br/>
-:seedling: Dongguk University Data Science Software(2022~) <br/> <br/> <br/> <br/>
+:seedling: Dongguk University Data Science Software(2022~) <br/>
+:seedling: Tistory(https://wonsjung.tistory.com/)  <br/> <br/> <br/> <br/>
 
 <div><h2>📚 Stacks</h2></div>
 <div>
