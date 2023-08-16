@@ -2,8 +2,8 @@
 <div><h2> :tiger: Profile</h2></div>
 :seedling: Dongguk University Information & Communication Egineering(2018~) <br/>
 :seedling: Dongguk University Data Science Software(2022~) <br/>
-
-:seedling: [Tistory Blog](https://wonsjung.tistory.com/) </br> </br>
+:seedling: [MySQL : replication protocol] Open Source Contribution Acadeny(2023.07~) <br/>
+:seedling: [Blog](https://wonsjung.tistory.com/) </br> </br>
 
 <div><h2>📚 Stacks</h2></div>
 <div>
