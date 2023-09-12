@@ -1,9 +1,16 @@
-# Kim Jung Won's Github 👋 <br/> <br/> 
-<div><h2> :tiger: Profile</h2></div>
+
+  ![header](https://capsule-render.vercel.app/api?type=Rounded&color=438CB5&height=300&section=header&text=Jungwon%20Kim&fontSize=90&fontColor=FFFFFF)
+
+<div><h2> :tiger: Profile</h2>
+
+:seedling: [Tistory Blog](https://wonsjung.tistory.com/) <br/>
 :seedling: Dongguk University Information & Communication Egineering(2018~) <br/>
 :seedling: Dongguk University Data Science Software(2022~) <br/>
-:seedling: [MySQL : replication protocol] Open Source Contribution Acadeny(2023.07~) <br/>
-:seedling: [Blog](https://wonsjung.tistory.com/) </br> </br>
+:seedling: [MySQL : replication protocol] Open Source Contribution Acadeny(2023.07~2023.08) <br/> 
+  
+
+<br/> <br/>
+</div>
 
 <div><h2>📚 Stacks</h2></div>
 <div>
@@ -17,7 +24,8 @@
   
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-  <img src="https://img.shields.io/badge/postgreSQL-6479A1?style=for-the-badge&logo=postgreSQL&logoColor=white"> <br/>
+  <img src="https://img.shields.io/badge/postgreSQL-6479A1?style=for-the-badge&logo=postgreSQL&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=Apache Kafka&logoColor=white"> <br/>
   
   <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
@@ -34,11 +42,13 @@
 </div>
 <br/><br/> <br/> 
 
-<div><h2>:school_satchel: Stats</h2></div>
+<div><h2>:school_satchel: Stats</h2>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawnddnjs12)](https://solved.ac/rlawnddnjs12/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jw0293&show_icons=true&theme=dark)
+
+</div>
 
 <!--
 **jw0293/jw0293** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
