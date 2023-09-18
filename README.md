@@ -1,11 +1,11 @@
-
+<!--
   ![header](https://capsule-render.vercel.app/api?type=Rounded&color=438CB5&height=300&section=header&text=Jungwon%20Kim&fontSize=90&fontColor=FFFFFF)
-
+-->
 <div><h2> :tiger: Profile</h2>
 
 :seedling: [Tistory Blog](https://wonsjung.tistory.com/) <br/>
-:seedling: Dongguk University Information & Communication Egineering(2018~) <br/>
-:seedling: Dongguk University Data Science Software(2022~) <br/>
+<!-- :seedling: Dongguk University Information & Communication Egineering(2018~) <br/>
+:seedling: Dongguk University Data Science Software(2022~) <br/> -->
 :seedling: [MySQL : replication protocol] Open Source Contribution Acadeny(2023.07~2023.08) <br/> 
   
 
